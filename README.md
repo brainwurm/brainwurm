@@ -1,16 +1,49 @@
-## Hi there 👋
+# I'm Sean 👋
 
-<!--
-**brainwurm/brainwurm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  **CS Student @ UGA | Creative Technologist | ML Enthusiast**
+  
+  *Exploring the intersection of art, design, and computing*
+  
+  📍 Atlanta, GA
+  
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨 About Me
+
+I believe the most interesting work happens at the boundaries between disciplines.
+
+Currently pursuing my B.S. in Computer Science at the University of Georgia (Expected 2026), where I'm exploring how ML and interactive systems can push creative boundaries.
+
+## 🚀 What I'm Working On
+
+- 🎨 Creating interactive web experiences with Three.js and React
+- 💧 Developing tools for water quality analysis through deep learning
+- 🖼️ Experimenting with generative art and design systems
+
+## 💻 Tech Stack
+
+```
+Frontend:  React • Next.js • React Native • Three.js • React Three Fiber
+Backend:   Node.js • MongoDB
+Languages: JavaScript • TypeScript • Python • Java • C++ • HTML/CSS
+ML/AI:     TensorFlow • Deep Learning • Computer Vision
+Tools:     Git • REST APIs 
+```
+
+## 🏆 Highlights
+
+- 🎓 Dean's List 2024
+- 💡 Hope Scholarship Award Recipient
+- 👨‍💻 Backend Data Developer @ VRMC (2023–Present)
+- 🖥️ IT Engineer @ Inflow (2025–Present)
+
+## 📫 Let's Connect
+
+- 💼 [Portfolio Website](https://brainwurm.github.io/CV/)
+- 📧 sean.wilson1899@gmail.com
+
+---
