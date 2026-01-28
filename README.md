@@ -1,4 +1,4 @@
-# I'm Sean 
+# Sean 
 
 <div align="center">
   
