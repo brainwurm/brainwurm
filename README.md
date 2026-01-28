@@ -20,30 +20,30 @@ Currently pursuing my B.S. in Computer Science at the University of Georgia (Exp
 
 ## What I'm Working On
 
-- 🎨 Creating interactive web experiences with Three.js and React
-- 💧 Developing tools for water quality analysis through deep learning
-- 🖼️ Experimenting with generative art and design systems
+-  Creating interactive web experiences with React & Three.js.
+-  Developing tools for water quality analysis through deep learning systems.
+-  Experimenting with generative art and design.
 
 ## Tech Stack
 
 ```
 Frontend:  React • Next.js • React Native • Three.js • React Three Fiber
 Backend:   Node.js • MongoDB
-Languages: JavaScript • TypeScript • Python • Java • C++ • HTML/CSS
-ML/AI:     TensorFlow • Deep Learning • Computer Vision
+Languages: JavaScript • TypeScript • Python • Java • C++
+ML/AI:     PyTorch • TensorFlow • Deep Learning • Computer Vision • Generative AI
 Tools:     Git • REST APIs 
 ```
 
 ## Highlights
 
-- 🎓 Dean's List 2024
-- 💡 Hope Scholarship Award Recipient
-- 👨‍💻 Backend Data Developer @ VRMC (2023–Present)
-- 🖥️ IT Engineer @ Inflow (2025–Present)
+- Dean's List 2025
+- Hope Scholarship Award Recipient
+- Backend Data Developer @ VRMC (2023–Present)
+- IT Engineer @ Skywalker Marketing (2025–Present)
 
 ## Connect
 
-- 💼 [Portfolio Website](https://brainwurm.github.io/CV/)
-- 📧 sean.wilson1899@gmail.com
+-  [Portfolio Website](https://brainwurm.github.io/CV/)
+-  sean.wilson1899@gmail.com
 
 ---
